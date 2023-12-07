@@ -1,7 +1,10 @@
 PERATURAN PENGISIAN DATA: Jaga selalu agar urutan data di file ini sesuai dengan urutan nomor presensi.
 
 
-...
+no presensi : 01
+NIM            : 1414423119
+Nama           : Fachrizka Adisti
+URL Repository : https://github.com/fachrizka/repositori-TOS/tree/main
 
 No Presensi: 03
 NIM: ...
