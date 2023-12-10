@@ -2,23 +2,21 @@ PERATURAN PENGISIAN DATA: Jaga selalu agar urutan data di file ini sesuai dengan
 
 
 ...
+No Presensi: 02
+NIM: 531421008
+Nama: Nurfentris S Dikum
+URL Repository:https://github.com/fentris/nurfentris-s-dikum
 
 No Presensi: 03
 NIM: 531421021
 Nama: Nadia Safitri
 URL Repository: https://github.com/08229131/nadia_project/tree/36f57ef63abe5ba0862b07cb49b5a16df7ce4523
 
+
 No Presensi: 04
-NIM: ...
-Nama: ...
-URL Repository:https://...
-
-
-No Presensi: 02
-NIM: 531421008
-Nama: Nurfentris S Dikum
-URL Repository:https://github.com/fentris/nurfentris-s-dikum
-
+NIM: 531421026
+Nama: Amelia S Umar
+URL Repository:https://github.com/ameliaumar/amelia-s-umar
 
 No Presensi: 07
 NIM: 531422001
